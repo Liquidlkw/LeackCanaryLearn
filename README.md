@@ -1,1 +1,1 @@
-![image](https://github.com/Liquidlkw/LeackCanaryLearn/assets/48376042/71ab5e06-492a-490e-9542-fe8ba8dc0cfe)
+![内存泄漏](https://github.com/Liquidlkw/LeackCanaryLearn/assets/48376042/37ee9f2c-8c61-4678-a486-f47e739da92d)
